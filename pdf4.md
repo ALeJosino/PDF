@@ -9,37 +9,37 @@
 * Estrutura Condicional Composta
 * Estrutura Condicional de Seleção Múltipla
 ***
-![alt text](image.png)
+![alt text](imgs/image.png)
 ***
-![alt text](image-1.png)
+![alt text](imgs/image-1.png)
 ***
-![alt text](image-2.png)
+![alt text](imgs/image-2.png)
 ***
-![alt text](image-3.png)
+![alt text](imgs/image-3.png)
 ***
-![alt text](image-4.png)
+![alt text](imgs/image-4.png)
 ***
-![alt text](image-5.png)
+![alt text](imgs/image-5.png)
 ***
-![alt text](image-6.png)
+![alt text](imgs/image-6.png)
 ***
-![alt text](image-7.png)
+![alt text](imgs/image-7.png)
 ***
-![alt text](image-8.png)
+![alt text](imgs/image-8.png)
 ***
-![alt text](image-9.png)
+![alt text](imgs/image-9.png)
 ***
-![alt text](image-10.png)
+![alt text](imgs/image-10.png)
 ***
-![alt text](image-11.png)
+![alt text](imgs/image-11.png)
 ***
-![alt text](image-12.png)
+![alt text](imgs/image-12.png)
 ***
-![alt text](image-13.png)
+![alt text](imgs/image-13.png)
 ***
-![alt text](image-14.png)
+![alt text](imgs/image-14.png)
 ***
-![alt text](image-15.png)
+![alt text](imgs/image-15.png)
 ***
 # Estruturas Condicionais ou de Controle
 ***
@@ -47,13 +47,13 @@
 Estruturas de controle são utilizadas para definir o
 caminho que um programa deve seguir.
 ***
-![alt text](image-16.png)
+![alt text](imgs/image-16.png)
 ***
-![alt text](image-18.png)
+![alt text](imgs/image-18.png)
 ***
-![alt text](image-19.png)
+![alt text](imgs/image-19.png)
 ***
-![alt text](image-20.png)
+![alt text](imgs/image-20.png)
 ***
 # Estrutura Condicional Simples
 ## Estrutura Condicional Simples
@@ -317,7 +317,7 @@ calcule o **IMC** a partir dos
 valores digitados (peso e
 altura) e informe a situação
 conforme tabela a seguir.
-![alt text](image-21.png)
+![alt text](imgs/image-21.png)
 
 
 # Encerramento 
