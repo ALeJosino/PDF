@@ -50,9 +50,9 @@
 3. Estudem todos os dias (Hábito)
 4. Tire suas dúvidas
 ## Computador 
-![alt text](/atv_29_08/img/image.png)
+![alt text](imgs/image.png)
 ####  Software
-![alt text](img/image.png)
+![alt text](imgs/image.png)
 ####  Hardware
 ***
 
@@ -70,7 +70,7 @@ atingir um objetivo bem definido” (FORBELLONE,
 ***
 ## Algoritmo 
 #### ---
-![alt text](img/image-2.png) ![alt text](img/image-3.png) ![alt text](img/image-4.png)
+![alt text](imgs/image-2.png) ![alt text](imgs/image-3.png) ![alt text](imgs/image-4.png)
 ***
 ## Exemplo de Algoritmo
 ### ---
@@ -116,9 +116,9 @@ soma na tela.
 
 ### Fluxograma
 #### ---
-![alt text](img/image-5.png)
+![alt text](imgs/image-5.png)
 ### Fluxograma
-![alt text](img/image-6.png)
+![alt text](imgs/image-6.png)
 ## Pseudocódigo 
  ``` 
  Algoritmo <nome_do_algoritmo>
@@ -169,7 +169,7 @@ FIM
 por um computador para realizar uma determinada
 tarefa.
 ***
-![alt text](img/image-7.png)
+![alt text](imgs/image-7.png)
 # Linguagens de Programação
 ## Linguagens de Programação
 * Computador é formado de circuitos
@@ -213,7 +213,7 @@ msg db 'Hello, world!',0xa
 len equ $ - msg**
 ***
 ### Linguagens de Programação
-![alt text](img/image-8.png)
+![alt text](imgs/image-8.png)
 #### C
 sistemas
 operacionais,
@@ -265,7 +265,7 @@ abordagens para modelar a solução de um problema.
   ***
 # Programação Estruturada
 ***
-![alt text](img/image-9.png)
+![alt text](imgs/image-9.png)
 ## Programação Estruturada
 A programação estruturada também enfatiza a modularidade,
 dividindo o código em pequenos blocos de construção
