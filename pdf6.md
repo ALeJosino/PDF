@@ -12,13 +12,13 @@
 # Vetores
 ***
 ## Vetores 
-![alt text](image-22.png)
+![alt text](imgs/image-22.png)
 ***
-![alt text](image-23.png)
+![alt text](imgs/image-23.png)
 ***
-![alt text](image-24.png)
+![alt text](imgs/image-24.png)
 ***
-![alt text](image-25.png)
+![alt text](imgs/image-25.png)
 ***
 ## Exemplos de Uso de Vetores
 * Listas de valores numéricos
@@ -43,15 +43,15 @@ Outros exemplos:
 ***
 # Matrizes
 ***
-![alt text](image-26.png)
-![alt text](image-27.png)
-![alt text](image-28.png)
-![alt text](image-29.png)
-![alt text](image-30.png)
-![alt text](image-31.png)
-![alt text](image-32.png)
-![alt text](image-33.png)
-![alt text](image-34.png)
+![alt text](imgs/image-26.png)
+![alt text](imgs/image-27.png)
+![alt text](imgs/image-28.png)
+![alt text](imgs/image-29.png)
+![alt text](imgs/image-30.png)
+![alt text](imgs/image-31.png)
+![alt text](imgs/image-32.png)
+![alt text](imgs/image-33.png)
+![alt text](imgs/image-34.png)
 ***
 ## Exemplos de Uso de Matrizes
 * jogos: xadrez, dama, jogo da velha, sudoku, cubo mágico, caça palvras 
@@ -68,7 +68,7 @@ Escreva um programa que cre um **vetor** com os números de 1 a 10 e imprima seu
 # Exercício 2
 Escreva um programa que crie uma matriz de duas 
 dimensões e imprima sua matriz transporta.
-![alt text](image-35.png) 
+![alt text](imgs/image-35.png) 
 ***
 # Coteiners 
 ***
